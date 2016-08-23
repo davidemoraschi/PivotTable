@@ -1,0 +1,18 @@
+﻿Microsoft.Samples.WPF.CustomControls.PivotTable
+
+
+library
+C#
+.cs
+C:\My Dropbox\Visual Studio 2008\Projects\PivotTable\Microsoft.Samples.WPF.CustomControls.PivotTable\obj\Debug\
+Microsoft.Samples.WPF.CustomControls
+none
+false
+DEBUG;TRACE
+
+11104420506
+
+71-1846386281
+16-637955690
+Control\CellDescriptionControl.xaml;Control\CellsPart.xaml;Control\ColumnsHierarchiesPart.xaml;Control\ColumnsMembersPart.xaml;Control\DimensionsAndMeasuresPart.xaml;Control\FilterAxisPart.xaml;Control\MembersFilterTreeView.xaml;Control\PivotTable.xaml;Control\RowsHierarchiesPart.xaml;Control\RowsMembersPart.xaml;Control\Resources.xaml;
+
